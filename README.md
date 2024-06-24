@@ -26,9 +26,13 @@ In this project we would look at how to use a 2 tier azure infrastructure to dep
 <ul>
 	<li>
     <strong>Azure Application Gateway</strong><br>
- It is a web traffic (OSI layer 7) load balancer that enables you to manage traffic to your web applications
+ It is a web traffic (OSI layer 7) load balancer that enables you to manage traffic to your web applications.
 </li>
- 
+
+ <li>
+    <strong>Virtual Network (VNet) service endpoint</strong><br>
+ It provides secure and direct connectivity to Azure services over an optimized route over the Azure backbone network.
+	 </li>
   <li>
     <strong>Resource Group</strong><br>
     It is the deployment and management service in Azure. It acts as the logical container for Azure resources.
