@@ -9,10 +9,14 @@ In this project we would look at how to use a 2 tier azure infrastructure to dep
 
 <div style="text-align: center;">
   <h1>Prerequisites</h1>
-    Azure Account 
-    Terraform 
-    Visual Studio Code and The Official Terraform Extension
-    Azure CLI 
-    Azure Service Principal
-    Git 
+    <ol>
+  <li>Azure Account</li>
+  <li>Terraform</li>
+  <li>Visual Studio Code and The Official Terraform Extension</li>
+  <li>Azure CLI</li>
+  <li>Azure Service Principal</li>
+  <li>Git</li>
+  <li>Azure DevOps</li>
+</ol>
+
   </div>
